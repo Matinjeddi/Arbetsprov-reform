@@ -56,4 +56,4 @@ uvicorn app.api:app --reload
 - Datakvalitet: Förbättra svensk datumtolkning, rensa boilerplate, språktaggning och ev. auto-sammanfattning vid import.
 
 ## AI-stöd
-AI användes för scaffold av projekt, API/DB/scraper-boilerplate och README-utkast; manuellt justerat för FTS-rankning och robust list-URL.
+AI (Cursor) användes för scaffold av projekt, API/DB/scraper-boilerplate och README-utkast; manuellt justerat för FTS-rankning och robust list-URL.
